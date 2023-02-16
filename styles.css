@@ -1,0 +1,23 @@
+/* styles.css */
+
+div {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.maintitle {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 60px;
+}
+
+.listitem {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
+
+
+
